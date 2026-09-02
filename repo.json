@@ -1,0 +1,8 @@
+{
+  "name": "My Google Drive",
+  "description": "Personal Google Drive CloudStream extension",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sankajalakshan/CloudStreamDrive/main/plugins.json"
+  ]
+}
