@@ -1,0 +1,11 @@
+[
+  {
+    "name": "My Google Drive",
+    "internalName": "DriveProvider",
+    "url": "https://raw.githubusercontent.com/sankajalakshan/CloudStreamDrive/main/DriveProvider.cs3",
+    "version": 1,
+    "status": 1,
+    "tvTypes": ["Movie"],
+    "language": "en"
+  }
+]
