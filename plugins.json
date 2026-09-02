@@ -1,11 +1,22 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/sankajalakshan/CloudStreamDrive/main/DriveProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
     "name": "My Google Drive",
     "internalName": "DriveProvider",
-    "url": "https://raw.githubusercontent.com/sankajalakshan/CloudStreamDrive/main/DriveProvider.cs3",
-    "version": 1,
-    "status": 1,
-    "tvTypes": ["Movie"],
-    "language": "en"
+    "authors": [
+      "Sankaja"
+    ],
+    "description": "Personal Google Drive library for CloudStream",
+    "repositoryUrl": "https://github.com/YOUR-USERNAME/CloudStreamDrive",
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "en",
+    "iconUrl": null,
+    "fileSize": null,
+    "fileHash": null
   }
 ]
